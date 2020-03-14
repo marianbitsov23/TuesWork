@@ -1,0 +1,22 @@
+1. Create class CustomStack which implements LIFO(Last in first out) policy. 
+It must have at least three public methods -  pop, push and size. 
+hint: use list as data contianer.
+
+2. Create a class 'Student' which contains name, 
+   number in class and all the marks that sutdent have
+   A) only for one object (TP). The class has method that returns the average mark.
+	Example usage
+	student = Student("Stoyan Hristov", 22)
+	student.addMark(2)
+	student.addMark(4)
+	print("Average mark:", student.getAverage(),"\n")    
+   
+   B) for all the objects. The class has method that returns the average mark for given object. 
+	Example usage
+	student = Student("Stoyan Hristov", 22)
+	student.addMark("TP", 2)
+	student.addMark("TP", 4)
+	print("Average mark:", student.getAverage("TP"),"\n") 
+
+hint: for B) use dictionary of lists to contain the marks.
+   

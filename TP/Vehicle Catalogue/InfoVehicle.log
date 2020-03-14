@@ -1,0 +1,125 @@
+2020-01-20 18:40:33,389 - root - INFO - bici with id: 11 logged out
+2020-01-20 18:41:12,716 - root - INFO - bici with id: 11 successfully logged in
+2020-01-20 18:42:42,426 - root - INFO - bici with id: 11 logged out
+2020-01-20 18:42:47,397 - root - INFO - Someone tried to login with wrong login information
+2020-01-20 18:42:57,735 - root - INFO - bici with id: 11 successfully logged in
+2020-01-20 18:43:11,196 - root - INFO - bici with id: 11 added new sale
+2020-01-20 18:43:25,908 - root - INFO - bici with id: 11 edited sale 18
+2020-01-20 18:43:29,713 - root - INFO - bici with id: 11 commented 321321 on sale 18
+2020-01-20 18:43:34,876 - root - INFO - bici with id: 11 edited comment on sale 18 with: haha
+2020-01-20 18:43:36,232 - root - INFO - bici with id: 11 deleted comment on sale 18
+2020-01-20 18:43:37,452 - root - INFO - bici with id: 11 deleted sale 18
+2020-01-20 18:43:43,251 - root - INFO - bici with id: 11 changed his username to bici1
+2020-01-20 18:43:53,064 - root - INFO - bici1 with id: 11 changed his email to bici1@gmail.com
+2020-01-20 18:43:56,765 - root - INFO - bici1 with id: 11 changed his password
+2020-01-20 18:43:59,876 - root - INFO - bici1 with id: 11 changed his password
+2020-01-21 08:46:18,086 - root - INFO - bici1 with id: 11 logged out
+2020-01-21 08:46:23,264 - root - INFO - Someone tried to login with wrong login information
+2020-01-21 08:46:30,571 - root - INFO - bici1 with id: 11 successfully logged in
+2020-01-21 08:56:13,175 - root - INFO - bici1 with id: 11 logged out
+2020-01-21 09:51:25,768 - root - INFO - bici1 with id: 11 successfully logged in
+2020-01-21 10:17:57,578 - root - INFO - bici1 with id: 11 logged out
+2020-01-21 10:39:09,440 - root - INFO - bici1 with id: 11 successfully logged in
+2020-01-21 10:42:18,560 - root - INFO - bici1 with id: 11 successfully logged in
+2020-01-21 10:50:28,911 - root - INFO - bici1 with id: 11 successfully logged in
+2020-01-21 15:16:23,609 - root - INFO - bici1 with id: 11 added new sale
+2020-01-21 15:16:41,032 - root - INFO - bici1 with id: 11 added new sale
+2020-01-21 16:18:39,823 - root - INFO - bici1 with id: 11 added new sale
+2020-01-21 16:19:13,780 - root - INFO - bici1 with id: 11 added new sale
+2020-01-21 16:22:00,348 - root - INFO - bici1 with id: 11 logged out
+2020-01-21 16:27:11,169 - root - INFO - bici1 with id: 11 successfully logged in
+2020-01-21 16:58:13,538 - root - INFO - bici1 with id: 11 logged out
+2020-01-21 16:59:19,908 - root - INFO - bici1 with id: 11 successfully logged in
+2020-01-21 17:04:09,863 - root - INFO - bici1 with id: 11 changed his username to bici
+2020-01-21 17:04:16,677 - root - INFO - bici with id: 11 changed his email to bici@gmail.com
+2020-01-21 17:04:21,898 - root - INFO - bici with id: 11 changed his password
+2020-01-21 17:04:26,210 - root - INFO - bici with id: 11 changed his password
+2020-01-22 08:14:40,560 - root - INFO - Someone tried to login with wrong login information
+2020-01-22 08:14:45,323 - root - INFO - bici with id: 11 successfully logged in
+2020-01-22 08:34:16,988 - root - INFO - Someone tried to login with wrong login information
+2020-01-22 08:34:24,267 - root - INFO - bici with id: 11 successfully logged in
+2020-01-22 08:37:49,726 - root - INFO - bici with id: 11 successfully logged in
+2020-01-22 08:41:56,730 - root - INFO - bici with id: 11 logged out
+2020-01-22 08:44:27,864 - root - INFO - bici with id: 11 successfully logged in
+2020-01-22 08:46:18,060 - root - INFO - bici with id: 11 logged out
+2020-01-22 08:48:31,680 - root - INFO - bici with id: 11 successfully logged in
+2020-01-22 08:49:00,213 - root - INFO - bici with id: 11 commented Biko on sale 15
+2020-01-22 08:49:11,199 - root - INFO - bici with id: 11 changed his username to kiro
+2020-01-22 08:51:07,167 - root - INFO - kiro with id: 11 changed his email to kiro@gmail.com
+2020-01-22 09:01:33,157 - root - INFO - kiro with id: 11 changed his username to marti
+2020-01-22 09:02:02,806 - root - INFO - kiro with id: 11 changed his username to marti
+2020-01-22 09:03:00,956 - root - INFO - marti with id: 11 changed his username to bici
+2020-01-22 09:03:08,480 - root - INFO - bici with id: 11 commented kopele on sale 14
+2020-01-22 09:03:11,647 - root - INFO - bici with id: 11 deleted comment on sale 14
+2020-01-22 09:03:16,761 - root - INFO - bici with id: 11 deleted comment on sale 15
+2020-01-22 09:03:23,037 - root - INFO - bici with id: 11 deleted comment on sale 14
+2020-01-22 09:03:38,080 - root - INFO - bici with id: 11 commented hello on sale 14
+2020-01-22 09:03:47,308 - root - INFO - bici with id: 11 changed his username to baikolio
+2020-01-22 09:04:04,931 - root - INFO - baikolio with id: 11 edited comment on sale 14 with: 123
+2020-01-22 09:04:14,360 - root - INFO - baikolio with id: 11 changed his username to bici123
+2020-01-22 09:05:17,150 - root - INFO - bici123 with id: 11 logged out
+2020-01-22 09:05:25,105 - root - INFO - Someone tried to login with wrong login information
+2020-01-22 09:05:32,572 - root - INFO - Someone tried to login with wrong login information
+2020-01-22 09:05:43,658 - root - INFO - Someone tried to login with wrong login information
+2020-01-22 09:05:47,851 - root - INFO - Someone tried to login with wrong login information
+2020-01-22 09:07:13,215 - root - INFO - betito with id: 8 successfully logged in
+2020-01-22 09:07:43,134 - root - INFO - betito with id: 8 logged out
+2020-01-22 09:08:52,075 - root - INFO - Mariyan with id: 13 changed his password
+2020-01-22 09:09:17,580 - root - INFO - Mariyan with id: 13 logged out
+2020-01-22 09:13:47,974 - root - INFO - betito with id: 8 successfully logged in
+2020-01-22 22:01:52,529 - root - INFO - betito with id: 8 logged out
+2020-01-23 08:30:04,734 - root - INFO - Someone tried to login with wrong login information
+2020-01-23 08:30:14,984 - root - INFO - Someone tried to login with wrong login information
+2020-01-23 08:30:34,453 - root - INFO - betito with id: 8 successfully logged in
+2020-01-23 08:30:42,529 - root - INFO - betito with id: 8 logged out
+2020-01-23 08:31:22,045 - root - INFO - betito with id: 8 successfully logged in
+2020-01-23 08:31:46,116 - root - INFO - betito with id: 8 logged out
+2020-01-23 08:31:52,331 - root - INFO - bici123 with id: 11 successfully logged in
+2020-01-23 08:32:26,244 - root - INFO - bici123 with id: 11 edited sale 20
+2020-01-23 09:06:55,089 - root - INFO - bici123 with id: 11 logged out
+2020-01-23 09:07:26,914 - root - INFO - Someone didnt confirm his password properly
+2020-01-23 09:08:54,289 - root - INFO - ognian with id: 14 commented fake on sale 15
+2020-01-23 09:09:14,475 - root - INFO - ognian with id: 14 logged out
+2020-01-23 09:09:32,971 - root - INFO - Someone tried to login with wrong login information
+2020-01-23 09:09:52,202 - root - INFO - Someone tried to login with wrong login information
+2020-01-23 09:09:57,002 - root - INFO - Someone tried to login with wrong login information
+2020-01-23 09:10:02,487 - root - INFO - Someone tried to login with wrong login information
+2020-01-23 09:10:07,761 - root - INFO - ognian with id: 14 successfully logged in
+2020-01-23 09:12:40,829 - root - INFO - ognian with id: 14 added new sale
+2020-01-23 09:13:06,372 - root - INFO - ognian with id: 14 edited sale 23
+2020-01-23 09:13:19,617 - root - INFO - ognian with id: 14 commented Unikana obqva on sale 23
+2020-01-23 09:13:40,302 - root - INFO - ognian with id: 14 commented mnooo ludo  on sale 23
+2020-01-23 09:14:05,166 - root - INFO - ognian with id: 14 commented 20?! on sale 23
+2020-01-23 09:16:26,350 - root - INFO - ognian with id: 14 deleted comment on sale 23
+2020-01-23 09:17:51,416 - root - INFO - ognian with id: 14 logged out
+2020-01-23 09:18:09,405 - root - INFO - betito with id: 8 successfully logged in
+2020-01-23 09:18:17,048 - root - INFO - betito with id: 8 commented hello on sale 23
+2020-01-23 09:18:19,891 - root - INFO - betito with id: 8 commented dsadas on sale 23
+2020-01-24 08:13:13,379 - root - INFO - tester with id: 1 added new categoty None named Car
+2020-01-24 08:13:20,039 - root - INFO - tester with id: 1 added new categoty None named Truck
+2020-01-24 08:13:27,199 - root - INFO - tester with id: 1 added new categoty None named Motorcycle
+2020-01-24 08:14:10,606 - root - INFO - tester with id: 1 added new sale
+2020-01-24 08:14:42,620 - root - INFO - tester with id: 1 added new sale
+2020-01-24 08:14:56,537 - root - INFO - tester with id: 1 edited sale 2
+2020-01-24 08:15:03,272 - root - INFO - tester with id: 1 edited sale 2
+2020-01-24 08:15:09,201 - root - INFO - tester with id: 1 logged out
+2020-01-24 08:15:57,564 - root - INFO - hacker with id: 2 added new sale
+2020-01-24 08:20:17,617 - root - INFO - hacker with id: 2 commented test on sale 1
+2020-01-24 08:20:24,787 - root - INFO - hacker with id: 2 commented i like it ! on sale 2
+2020-01-24 08:20:37,326 - root - INFO - hacker with id: 2 changed his username to hacker1
+2020-01-24 08:21:00,188 - root - INFO - hacker1 with id: 2 changed his username to hacker
+2020-01-24 08:21:23,059 - root - INFO - hacker with id: 2 edited comment on sale 2 with: i like it
+2020-01-24 08:21:37,269 - root - INFO - hacker with id: 2 logged out
+2020-01-24 08:21:46,771 - root - INFO - tester with id: 1 successfully logged in
+2020-01-24 08:21:53,704 - root - INFO - tester with id: 1 commented hello on sale 2
+2020-01-24 08:21:56,746 - root - INFO - tester with id: 1 edited comment on sale 2 with: hello
+2020-01-24 08:21:58,970 - root - INFO - tester with id: 1 deleted comment on sale 2
+2020-01-24 08:22:01,691 - root - INFO - tester with id: 1 commented hello on sale 2
+2020-01-24 08:22:06,003 - root - INFO - tester with id: 1 edited comment on sale 2 with: 
+2020-01-24 08:29:42,442 - root - INFO - tester with id: 1 logged out
+2020-01-24 08:36:21,739 - root - INFO - stoyan with id: 3 added new sale
+2020-01-24 08:36:39,662 - root - INFO - stoyan with id: 3 logged out
+2020-01-24 08:36:47,477 - root - INFO - hacker with id: 2 successfully logged in
+2020-01-24 08:36:56,869 - root - INFO - hacker with id: 2 commented mnogo qk golf on sale 4
+2020-01-24 08:37:04,915 - root - INFO - hacker with id: 2 edited comment on sale 4 with: mnogo golfa
+2020-01-24 08:37:06,893 - root - INFO - hacker with id: 2 deleted comment on sale 4

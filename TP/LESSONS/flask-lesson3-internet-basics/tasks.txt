@@ -1,0 +1,2 @@
+1. https://flask.palletsprojects.com/en/1.1.x/quickstart/
+2. Create add post tasks: https://github.com/d0ivanov/python-course/commit/00f406e1da6f75d9949cbd2fe6f690882cc9bbfa

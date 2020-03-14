@@ -1,0 +1,33 @@
+<form action="/sales/{{ sale.id }}/edit" method="post" enctype="multipart/form-data">
+    <label>Name</label>
+    <input name="name" value="{{ sale.name }}"/>
+    </br>
+    <label>Model</label>
+    <input name="model" value="{{ sale.model }}"/>
+    </br>
+    <label>Condition</label>
+    <input name="condition" value="{{ sale.condition }}"/>
+    </br>
+    <label>Price</label>
+    <input name="price" value="{{ sale.price }}"/>
+    </br>
+    <label>Mileage</label>
+    <input name="mileage" value="{{ sale.mileage }}"/>
+    </br>
+    <label>Year</label>
+    <input name="year" type="date" value="{{ sale.year }}"/>
+    </br>
+    <label>Horsepower</label>
+    <input name="horsepower" value="{{ sale.horsepower }}"/>
+    </br>
+    <label>Category</label>
+    <select name="category_id">
+      <option value="0">No category</option>
+      {% for category in categories %}
+        <option value="{{ category.id }}">{{ category.name }}</option>
+      {% endfor %}
+    </select>
+    </br>
+    <input type="file" multiple="" name="file" class="span3" /><br />
+    <button type="submit">Submit</button>
+  </form>

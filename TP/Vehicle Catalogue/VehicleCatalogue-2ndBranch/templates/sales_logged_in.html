@@ -1,0 +1,23 @@
+<title>Sales</title>
+
+<h1>Sales</h1>
+
+<a href="/sales/new">Add a car for sale</a>
+<br/>
+<br/>
+<a href="/sales/user_sales">My sales</a>
+<br/>
+<br/>
+<a href="/categories">Search by category</a>
+<form action="/log_out" method="POST">
+    <input type="submit" value="log out">
+</form>
+<br/>
+
+{% for sale in sales %}
+<a href="/sales/{{ sale.id }}"><b>Name:</b> {{ sale.name }} | Model: {{ sale.model }}</a>
+<br/>
+{% endfor %}
+<br/>
+<p>Logged in as: <a href="/user_info">{{ username }}</a></p>
+<br/>

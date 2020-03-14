@@ -1,0 +1,64 @@
+/*
+* {
+    box-sizing: border-box;
+}
+
+.box{
+
+    background: red;
+    height: 100px;
+    width: 100px;
+    padding: 50px;
+
+}
+
+span {
+    color: #ffffff;
+}
+*/
+
+
+/*
+INLINE VS INLINE-BLOCK VS BLOCK
+
+
+.inline {
+    display: inline;
+    padding: 10px;
+    background: blue;
+    color: white;
+}
+use inline block for buttons
+.inline-block {
+    display: inline-block;
+    padding: 10px; 
+    background: red;
+    color: white;
+}
+
+.block {
+    display: block;
+    padding: 10px;
+    background: chartreuse;
+    color: white;
+}
+*/
+
+/*
+.button {
+    background: red;
+    color: white;
+    padding: 30px;
+    display: inline-block;
+}
+*/
+
+.child > p{
+    background: red;
+    color:white;
+} 
+
+.child > h2 ~ p{
+    background: green;
+    color: white;
+}

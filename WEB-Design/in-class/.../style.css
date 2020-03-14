@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #ddd;
+}
+
+img{
+    transition: 1s;
+    max-width: 100%;
+    height: auto;
+}
+
+img:hover{
+    transition: 1s;
+    transform: scale(.5);
+}

@@ -1,0 +1,11 @@
+WARNING:root:01/21/20 17:58:33 user entered wrong password
+WARNING:root:01/21/20 17:58:45 user entered wrong password
+INFO:root:01/21/20 17:59:23 user id:8with username:kir40is logging out
+INFO:root:01/21/20 17:59:35 user id:8with username:kir40has logged in
+INFO:root:01/21/20 17:59:44 user id:8with username:kir40commented successfully
+INFO:root:01/21/20 17:59:52 user id:8with username:kir40edited a comment
+INFO:root:01/21/20 17:59:57 user id:8with username:kir40edited a comment
+INFO:root:01/21/20 18:00:44 user id:8with username:kir40made a post
+INFO:root:01/21/20 18:00:53 user id:8with username:kir40deleted a post
+WARNING:root:01/21/20 18:01:05 user id:8with username:kir40tried to comment unsuccessfully
+INFO:root:01/21/20 18:01:42 user id:8with username:kir40is logging out

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf357990-d3c9-434c-9947-1e9d3aa66825" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XcURPLvFTBcwnchy9PCZGwoJaR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Organisation" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf357990-d3c9-434c-9947-1e9d3aa66825" name="Default Changelist" comment="" />
+      <created>1581344868394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581344868394</updated>
+      <workItem from="1581344874724" duration="295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="311" y="58" width="847" height="677" key="#Project_Structure" timestamp="1581345097184">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="58" width="847" height="677" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1581345097184" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581345168630">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1581345168630" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1581344921893">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="498" height="398" key="SwitcherDM/67.27.1299.741@67.27.1299.741" timestamp="1581344921893" />
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1581344878648">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1581344878648" />
+    <state x="656" y="27" width="710" height="741" key="find.popup" timestamp="1581344952584">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="656" y="27" width="710" height="741" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1581344952584" />
+    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1581344970735">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1581344970735" />
+    <state x="379" y="89" key="search.everywhere.popup" timestamp="1581344931424">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1581344931424" />
+  </component>
+</project>

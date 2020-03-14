@@ -1,0 +1,4 @@
+1. Create a python script which calculates prime number in different threads.
+Create class which calculates  the prime numbers from starting number to end number where starting and end numbers is parameter passed during creation of the  class.
+   a ) Execute 10 threads. In the first thread find prime numbers using the above class between  1 nad 100  in the second between  100 and 200  the third 200 and 300  etc.
+   b ) Execute 1 thread which calculates prime numbers between 1 and 1000 and measure and compare the duration difference between this implementation and the one in a )

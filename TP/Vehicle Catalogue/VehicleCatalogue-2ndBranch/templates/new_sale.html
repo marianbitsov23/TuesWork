@@ -1,0 +1,33 @@
+<form action="/sales/new" method="post" enctype="multipart/form-data">
+    <label>Name</label>
+    <input name="name"/>
+    </br>
+    <label>Model</label>
+    <input name="model"/>
+    </br>
+    <label>Condition</label>
+    <input name="condition"/>
+    </br>
+    <label>Price</label>
+    <input name="price"/>
+    </br>
+    <label>Mileage</label>
+    <input name="mileage"/>
+    </br>
+    <label>Year</label>
+    <input name="year" type="date"/>
+    </br>
+    <label>Horsepower</label>
+    <input name="horsepower"/>
+    </br>
+    <label>Category</label>
+    <select name="category_id">
+      {% for category in categories %}
+        <option value="{{ category.id }}">{{ category.name }}</option>
+      {% endfor %}
+    </select>
+    </br>
+    <input type="file" multiple="" name="file" class="span3" /><br />
+    <input type="submit" value="Upload"  class="span2">
+    </br>
+  </form>
